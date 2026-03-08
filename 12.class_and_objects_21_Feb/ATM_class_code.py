@@ -61,10 +61,10 @@ class BankATM:
         else: print('Wrong PIN!')
         self.show_menu()
 
-obj1=BankATM()
-obj1.set_pin()
-
-def sum():
+def summation():
     pass
 
-sum()
+obj1=BankATM()
+
+
+
