@@ -1,0 +1,3 @@
+"my name is ganesh\n",
+"my roll no is 100\n",
+"I live in pune\n"
