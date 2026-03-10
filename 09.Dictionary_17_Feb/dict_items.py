@@ -3,3 +3,6 @@ for key,value in dict5.items():
     print("The value of", key, "is", value)
 
 # The value of 10 is "A"
+
+
+{"b":10,"c":20}
