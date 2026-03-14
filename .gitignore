@@ -1,0 +1,16 @@
+# Python virtual environments
+env/
+venv/
+.env
+env_langchain/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS
+.DS_Store
